@@ -1,6 +1,6 @@
 /* Service Worker — คำขอใช้พื้นที่ป่า ขท.กระบี่ (React v1 / v37) */
 const CACHE = 'forest-app-v37';
-const BASE = '/forest-permit/';
+const BASE = '/forest-permit-v2/';
 
 /* ไฟล์หลักที่ต้อง precache (Vite hash ใน /assets/ จัดการโดย fetch handler) */
 const ASSETS = [
